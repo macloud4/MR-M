@@ -1,4 +1,4 @@
-# KINA KEN VICTOR MURIITHI EE105/G/9629/20
+#KAMULA MACLOUDY EE105/G/11328/20
 # Python program to demonstrate
 # Substitution Cipher
 
